@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+label, input {
+  display: block;
+}
+
+.time-div > div, .time-div > button {
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 5px;
+}
